@@ -3,13 +3,11 @@ import React from "react";
 function Jumbotron() {
 	return (
 		<div className="jumbotron">
-			<h1 className="display-4">Hello, world!</h1>
-			<p className="lead">
-				This is a simple hero unit, a simple jumbotron-style component
-				for calling extra attention to featured content or information.
-			</p>
+			{/* <img src="https://media.istockphoto.com/photos/cat-in-a-red-car-3-picture-id872320170?k=6&m=872320170&s=612x612&w=0&h=xeuIpiUC9qoLeB8ZPPWU7FcwGOb2AiFViJG5RJBCHMQ=" /> */}
+			<h1 className="display-4">CATS + CARS!</h1>
+			<p className="lead">Our adventurous friends are at it again...</p>
 			<a className="btn btn-primary btn-lg" href="#" role="button">
-				Learn more
+				Click Me!
 			</a>
 		</div>
 	);

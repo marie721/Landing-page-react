@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar";
 import Jumbotron from "./jumbotron";
+import Footer from "./footer";
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
 
@@ -10,6 +11,7 @@ export function Home() {
 		<div className="container">
 			<Navbar />
 			<Jumbotron />
+			<Footer />
 		</div>
 	);
 }
