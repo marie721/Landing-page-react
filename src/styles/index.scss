@@ -11,3 +11,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.cardstyle {
+    width: 18rem;
+}
+
+.cardImage {
+  width: 100%;
+  height: 12rem;
+  object-fit: cover;
+}
