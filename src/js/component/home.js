@@ -8,9 +8,11 @@ import rigoImage from "../../img/rigo-baby.jpg";
 //create your first component
 export function Home() {
 	return (
-		<div className="container">
+		<div className="container-fluid pl-0 pr-0">
 			<Navbar />
-			<Jumbotron />
+			<div className="container">
+				<Jumbotron />
+			</div>
 			<Footer />
 		</div>
 	);
