@@ -25,7 +25,7 @@ function Carddeck() {
 		}
 	];
 	return (
-		<div className="container-fluid d-flex justify-content-between">
+		<div className="container-fluid d-flex justify-content-between mb-3">
 			{cards.map((card, index) => {
 				return (
 					<div key={index} className="card cardstyle">
