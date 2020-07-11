@@ -17,6 +17,13 @@ function Carddeck() {
 				"https://www.sciencenews.org/wp-content/uploads/2020/03/033120_HT_covid-cat_feat-1028x579.jpg"
 		},
 		{
+			title: "Cats love playing",
+			description:
+				"Some quick example text to build on the card title and make up the bulk of the card's content.",
+			imageUrl:
+				"https://i.guim.co.uk/img/media/7d04c4cb7510a4bd9a8bec449f53425aeccee895/289_287_1442_866/master/1442.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=6b7cb2d2ab7847fb0623d2757c1260ba"
+		},
+		{
 			title: "Cats from around the world",
 			description:
 				"Some quick example text to build on the card title and make up the bulk of the card's content.",

@@ -11,7 +11,7 @@ export function Home() {
 	return (
 		<div className="nav-top">
 			<Navbar />
-			<div className="container">
+			<div className="container-fluid">
 				<Jumbotron />
 				<Carddeck />
 			</div>
